@@ -675,14 +675,14 @@ r=========================*/
 .materials__number {
     margin-right: 18px;
 
-    font: 700 70px / 1.2 'Roboto', sans-serif;;
+    font: 700 60px / 1.2 'Roboto', sans-serif;;
     color: #0085FF;
 }
 
 .materials__content-title {
     padding-left: 25px;
 
-    font: 500 24px / 1.2 'Roboto', sans-serif;;
+    font: 500 21px / 1.2 'Roboto', sans-serif;;
     color: #000;
     text-transform: uppercase;
 
@@ -706,7 +706,7 @@ r=========================*/
     width: 100%;
     max-width: 453px;
 
-    font: 400 24px / 1.2 'Roboto', sans-serif;;
+    font: 400 22px / 1.2 'Roboto', sans-serif;;
     color: #000;
 }
 
